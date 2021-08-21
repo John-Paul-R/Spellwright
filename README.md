@@ -1,14 +1,14 @@
 <div align="center">
 
-<img alt="Example Icon" src="src/main/resources/assets/modid/icon.jpg" width="128">
+<img alt="Spellwright Icon" src="src/main/resources/assets/spellwright/icon.jpg" width="128">
 
-# Fabric Example Mod
+# Spellwright
 
 Lorem ipsum dolor sit amet
 
 <!-- todo: replace 475964 with your CurseForge project id -->
 <!-- todo: replace essential-commands with your modrinth project id -->
-[![Release](https://img.shields.io/github/v/release/John-Paul-R/fabric-template-mod?style=for-the-badge&include_prereleases&sort=semver)][releases]
+[![Release](https://img.shields.io/github/v/release/John-Paul-R/Spellwright?style=for-the-badge&include_prereleases&sort=semver)][releases]
 [![Available For](https://img.shields.io/badge/dynamic/json?label=Available%20For&style=for-the-badge&color=34aa2f&query=$[:]&url=https%3A%2F%2Fwww.jpcode.dev%2Fessentialcommands%2Fsupported_mc_versions.json)][modrinth:files]
 
 
@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet
 
 </div>
 
-Example is a **Minecraft mod** that lorem ipsum dolor sit amet. Ut mi lectus,
+Spellwright is a **Minecraft mod** that lorem ipsum dolor sit amet. Ut mi lectus,
 egestas a justo nec, hendrerit tempus ipsum. Nulla blandit porta sodales. Nulla
 accumsan ipsum vitae tortor facilisis, id malesuada enim sagittis.
 
@@ -38,13 +38,13 @@ doloremque laudantium.
 
 ## Contributing
 
-Thank you for considering contributing to Example! Please see the
+Thank you for considering contributing to Spellwright! Please see the
 [Contribution Guidelines][contributing].
 
 ## Licence
 
 <!-- todo: see https://choosealicense.com -->
-Example is open-sourced software licenced under the [MIT license][licence].
+Spellwright is open-sourced software licenced under the [MIT license][licence].
 
 ## Discord
 
@@ -60,12 +60,12 @@ Feel free to copy this template as you wish.
 [![CC0 Badge](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [contributing]: .github/CONTRIBUTING.md
-[curseforge]: https://curseforge.com/minecraft/mc-mods/modid
+[curseforge]: https://curseforge.com/minecraft/mc-mods/spellwright
 [curseforge:files]: https://www.curseforge.com/minecraft/mc-mods/essential-commands/files/all
 [modrinth:files]: https://modrinth.com/mod/essential-commands/versions
 [fabric]: https://fabricmc.net/
 [licence]: LICENSE
 [minecraft]: https://minecraft.net/
-[releases]: https://github.com/John-Paul-R/fabric-template-mod/releases
+[releases]: https://github.com/John-Paul-R/Spellwright/releases
 [security]: .github/SECURITY.md
 [discord]: https://discord.jpcode.dev/

@@ -14,20 +14,20 @@
     }
   ],
   "contact": {
-    "homepage": "https://github.com/John-Paul-R/fabric-template-mod",
-    "sources": "https://github.com/John-Paul-R/fabric-template-mod",
-    "issues": "https://github.com/John-Paul-R/fabric-template-mod/issues"
+    "homepage": "https://github.com/John-Paul-R/Spellwright",
+    "sources": "https://github.com/John-Paul-R/Spellwright",
+    "issues": "https://github.com/John-Paul-R/Spellwright/issues"
   },
   "license": "MIT",
-  "icon": "assets/modid-sub/icon.png",
+  "icon": "assets/spellwright-sub/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "dev.jpcode.modid.submod.AnotherExample"
+      "dev.jpcode.spellwright.submod.AnotherExample"
     ]
   },
   "mixins": [
-    "modid-sub.mixins.json"
+    "spellwright-sub.mixins.json"
   ],
   "depends": {
     "java": ">=16",
@@ -37,7 +37,7 @@
   },
   "custom": {
     "modmenu": {
-      "parent": "modid",
+      "parent": "spellwright",
       "badges": ["library"]
     }
   }

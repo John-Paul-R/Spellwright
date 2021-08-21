@@ -1,4 +1,4 @@
-<img alt="Another Example Icon" src="src/main/resources/assets/modid-sub/icon.jpg" width="64">
+<img alt="Another Spellwright Icon" src="src/main/resources/assets/spellwright-sub/icon.jpg" width="64">
 
 ## Another Example Mod
 
